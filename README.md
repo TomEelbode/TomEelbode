@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a biomedical engineer with a strong passion for medical image analysis, artificial intelligence and automated diagnosis. I'm especially interested in translating fundamental findings from the field of computer vision into a clinically relevant algorithm by integrating technical and clinical domain-specific knowledge. I'm a critical person who loves to work in an interdisciplinary environment and don't not fear a strong deadline.
 <!--
 **TomEelbode/TomEelbode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
